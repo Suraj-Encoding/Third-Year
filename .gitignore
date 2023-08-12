@@ -1,0 +1,9 @@
+# Waste
+*.DS_Store
+
+# Executable 
+*.class
+
+# Folders
+/R Programs
+
