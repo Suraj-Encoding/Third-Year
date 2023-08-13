@@ -14,13 +14,13 @@ public class ass1 {
          p = (int) (Math.pow(10, h));
          k = (int) (Math.pow(10, n));
          // Formula : ac*10^n + (ad+bc)*10^(n/2) + bd
-         a = x / p; 
+         a = x / p;
          b = x % p;
          c = y / p;
          d = y % p;
          ac = karatsuba(a, c);
          bd = karatsuba(b, d);
-         plus = karatsuba(a+b, c+d) - (ac+bd);
+         plus = karatsuba(a + b, c + d) - (ac + bd);
          return (ac * k + plus * p + bd);
       }
    }
