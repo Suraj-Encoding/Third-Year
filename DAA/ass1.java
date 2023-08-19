@@ -1,5 +1,5 @@
 // # Assignment-1 : Karatsuba Algorithm
-// # Square of 20 digit number using divide and conquer
+// # Square of 20 digit number using divide and conquer method
 // # Time : O(n^1.58)
 import java.util.Scanner;
 
