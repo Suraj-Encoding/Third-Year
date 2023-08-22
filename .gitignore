@@ -9,3 +9,7 @@
 /DMW
 /Run
 
+# Extension Less Files
+**
+*.exe
+
