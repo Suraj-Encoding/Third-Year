@@ -1,16 +1,18 @@
-# Waste
+# Waste Files
 *.DS_Store
 
-# Executable 
+# Executable Files
 *.class
+*.exe
 
-# Folders
+# Unwanted Folders
 /R 
 /DMW
 /Run
 
 # Extension Less Files
 # **
-*.exe
 
+# User Files
 .Rproj.user
+
