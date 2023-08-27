@@ -10,6 +10,7 @@
 /Run
 
 # Extension Less Files
-**
+# **
 *.exe
 
+.Rproj.user
